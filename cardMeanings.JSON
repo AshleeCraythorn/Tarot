@@ -22,5 +22,20 @@
 {"card": "Judgement", "Upright": "Judgement, rebirth, inner calling, absolution", "Reversed": "Self-doubt, inner critic, ignoring the call"},
 {"card": "The World", "Upright": "Completion, integration, accomplishment, travel", "Reversed": "Seeking personal closure, short-cuts, delays"}
 
+{"card": "Ace of Cups", "Upright": "Love, new relationships, compassion, creativity." , "Reversed": "Self-love, intuition, repressed emotions."}
+{"card": "Two of Cups", "Upright": "Unified love, partnership, mutual attraction" , "Reversed": "Self-love, break-ups, disharmony, distrust."}
+{"card": "Three of Cups", "Upright": "Celebration, friendship, creativity, collaborations." , "Reversed": "Independence, alone time, hardcore partying, three is a crowd."}
+{"card": "Four of Cups", "Upright": "Meditation, contemplation, apathy, reevaluation." , "Reversed": "Retreat, withdrawal, checking in for alignment."}
+{"card": "Five of Cups", "Upright": "Regret, failure, disappointment, pessimism." , "Reversed": "Personal setbacks, self-forgiveness, moving on."}
+{"card": "Six of Cups", "Upright": "Revisiting the past, childhood memories, innocence, joy." , "Reversed": "Living in the past, forgiveness, lacking playfulness."}
+{"card": "Seven of Cups", "Upright": "Opportunities, choices, wishful thinking, illusion." , "Reversed": "Alignment, personal values, overwhelmed by choices."}
+{"card": "Eight of Cups", "Upright": "Disappointment, abandonment, withdrawal, escapism." , "Reversed": "Trying one more time, indecision, aimless drifting, walking away."}
+{"card": "Nine of Cups", "Upright": "Contentment, satisfaction, gratitude, wish come true." , "Reversed": "Inner happiness, materialism, dissatisfaction, indulgence."}
+{"card": "Ten of Cups", "Upright": "Divine love, blissful relationships, harmony, alignment." , "Reversed": "Disconnection, misaligned values, struggling relationships."}
+{"card": "Page of Cups", "Upright": "Creative opportunities, intuitive messages, curiosity, possibility." , "Reversed": "New ideas, doubting intuition, creative blocks, emotional immaturity."}
+{"card": "Knight of Cups", "Upright": "Creativity, romance, charm, imagination, beauty." , "Reversed": "Overactive imagination, unrealistic, jealous, moody."}
+{"card": "Queen of Cups", "Upright": "Compassionate, caring, emotionally stable, intuitive, in flow." , "Reversed": "Inner feelings, self-care, self-love, co-dependency."}
+{"card": "King of Cups", "Upright": "Emotionally balanced, compassionate, diplomatic." , "Reversed": "Self-compassion, inner feelings, moodiness, emotionally manipulative."}
+
 
 ]
